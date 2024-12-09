@@ -1,0 +1,62 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Fix Next.js API Route bug",
+    "status": "open",
+    "type": "bug"
+  },
+  "2": {
+    "id": 2,
+    "name": "Add dark mode",
+    "status": "closed",
+    "type": "feature"
+  },
+  "3": {
+    "id": 3,
+    "name": "Improve performance",
+    "status": "open",
+    "type": "feature"
+  },
+  "4": {
+    "id": 4,
+    "name": "Implement SEO and Meta tags",
+    "status": "open",
+    "type": "feature"
+  },
+  "5": {
+    "id": 5,
+    "name": "Fix hydration warnings",
+    "status": "open",
+    "type": "bug"
+  },
+  "6": {
+    "id": 6,
+    "name": "Add PostCSS Support!!",
+    "status": "open",
+    "type": "feature"
+  },
+  "7": {
+    "id": 7,
+    "name": "Add React 19 Support",
+    "status": "open",
+    "type": "feature"
+  },
+  "8": {
+    "id": 8,
+    "name": "Learn Server Actions",
+    "type": "Feature",
+    "status": "open"
+  },
+  "9": {
+    "id": 9,
+    "name": "tjer",
+    "type": "jw",
+    "status": "open"
+  },
+  "10": {
+    "id": 10,
+    "name": "ewg",
+    "type": "ewg",
+    "status": "open"
+  }
+}
